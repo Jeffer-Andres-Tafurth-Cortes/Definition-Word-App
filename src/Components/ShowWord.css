@@ -1,0 +1,14 @@
+.container{
+    margin: 10px 50px;
+}
+
+.responses{
+    width: 100%;
+    margin: 15px 0;
+}
+
+.response{
+    font-size: 18px;
+    margin-bottom: 2px;
+    border-bottom: 1px solid #eee;
+}
